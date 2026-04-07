@@ -137,8 +137,4 @@ Analyses the SOC profile to find intervals where a near-full or near-empty batte
 
 The agent works with any CSV that has the required columns (see `data/battery_data.csv`). No code changes are needed. Simply pass the `--data` flag pointing to your file.
 
----
 
-## Example Output
-
-See [`output/example_output.md`](output/example_output.md) for a sample report produced against the Blyth Battery dataset.
