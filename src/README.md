@@ -139,6 +139,6 @@ The agent works with any CSV that has the required columns (see `data/README.md`
 
 ---
 
-## Example Output
+## Output
 
-See [`output/example_output.md`](output/example_output.md) for a sample report produced against the Blyth Battery dataset.
+See [`output/battery-analysis_report.md`](output/battery-analysis_report.md) for a report produced against the Blyth Battery dataset.
